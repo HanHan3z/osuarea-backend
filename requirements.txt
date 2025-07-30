@@ -1,3 +1,0 @@
-irc
-ossapi
-pyyaml
